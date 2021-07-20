@@ -2,3 +2,4 @@ In my project there are 3 chart, Bar chart, Pie chart and line chart and input b
 
 Want to make my project like this wind streaming project. wind streaming project link given below.
 https://github.com/plotly/dash-sample-apps/tree/main/apps/dash-wind-streaming
+Some work has been done by me. But after that I'm lost and can't solve some problems.
